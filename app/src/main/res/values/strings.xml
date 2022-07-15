@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">PointBuyPager</string>
+    <string name="strength_sh">STR</string>
+    <string name="dexterity_sh">DEX</string>
+    <string name="constitution_sh">CON</string>
+    <string name="wisdom_sh">WIS</string>
+    <string name="intelligence_sh">INT</string>
+    <string name="wits_sh">WIT</string>
+    <string name="willpower_sh">WIL</string>
+    <string name="charisma_sh">CHA</string>
+    <string name="strength">Strength</string>
+    <string name="dexterity">Dexterity</string>
+    <string name="constitution">Constitution</string>
+    <string name="wisdom">Wisdom</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="wits">Wits</string>
+    <string name="willpower">Willpower</string>
+    <string name="charisma">Charisma</string>
+    <string name="default_stat">8</string>
+    <string name="default_pathfinder">7</string>
+    <string name="score_modifier">0</string>
+
+    <string-array name="stats">
+        <item>"8"</item>
+        <item>"9"</item>
+        <item>"10"</item>
+        <item>"11"</item>
+        <item>"12"</item>
+        <item>"13"</item>
+        <item>"14"</item>
+        <item>"15"</item>
+    </string-array>
+
+    <string-array name="stats_pathfinder">
+        <item>"7"</item>
+        <item>"8"</item>
+        <item>"9"</item>
+        <item>"10"</item>
+        <item>"11"</item>
+        <item>"12"</item>
+        <item>"13"</item>
+        <item>"14"</item>
+        <item>"15"</item>
+        <item>"16"</item>
+        <item>"17"</item>
+        <item>"18"</item>
+    </string-array>
+</resources>
